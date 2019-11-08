@@ -4,4 +4,4 @@ This project, based on famous repository https://github.com/lucavandro/CodiceFis
 
 Furthermore the provinces of Sardinia (Sardegna) have been updated with the relevant municipalities (comuni). The actual provinces are: Nuoro, Oristano, Sassari, Sud Sardegna and Città Metropolinata di Cagliari.
 
-==================================================================================================
+=====================================================================================
