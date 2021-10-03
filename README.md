@@ -4,7 +4,7 @@ This project, based on famous repository https://github.com/lucavandro/CodiceFis
 
 Furthermore the provinces of Sardinia have been updated with the relevant municipalities. The actual provinces are: Nuoro, Oristano, Sassari, Sud Sardegna and Città Metropolinata di Cagliari.
 
-===============================================================================
+============================================================================
 
 Questo progetto, basato sul famoso repository https://github.com/lucavandro/CodiceFiscaleJS, tiene conto della Legge Regionale N. 2/2016 in seguito ad un referendum che ha abolito le province di Carbonia-Iglesias, Ogliastra, Olbia-Tempio e Medio Campidano.
 
